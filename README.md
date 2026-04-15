@@ -1,6 +1,6 @@
 # CloudBlog-Manager
 
-AzurePress is an ASP.NET Core MVC web application that manages blog-related content using Azure Blob Storage. It allows users to create and manage containers, upload and view files, and organize stored content through a simple web interface.
+CloudBlog-Manager is an ASP.NET Core MVC web application that manages blog-related content using Azure Blob Storage. It allows users to create and manage containers, upload and view files, and organize stored content through a simple web interface.
 
 ## Features
 - Create and delete Azure Blob Storage containers
